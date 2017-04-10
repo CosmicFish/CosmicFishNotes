@@ -1,0 +1,8 @@
+\begin{tabular}{ |l|l|l|l| }
+\hline
+\multicolumn{4}{|c|}{1 Planck Pre Launch fisher matrix cls marginal} \\[1mm]
+\hline
+ $\Omega_b h^2 = 0.0226 \pm 0.0001$ & $h = 0.7 \pm 0.005$                        & $n_s = 0.96 \pm 0.003$  & $\Omega_{m} = 0.276 \pm 0.006$       \\[1mm]
+ $\Omega_c h^2 = 0.112 \pm 0.001$   & ${\rm{ln}}(10^{10} A_s) = 3.045 \pm 0.007$ & $\tau = 0.09 \pm 0.004$ & $\sigma_{8}(0.00) = 0.779 \pm 0.005$ \\[1mm]
+\hline
+\end{tabular}
